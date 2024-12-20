@@ -38,19 +38,14 @@ Ce dépôt contient une présentation complète des techniques de régularisatio
 
 ## 📂 Structure des fichiers
 
-- `presentation-code1.pdf` : 
+- `presentation-code1` : 
   - Contient les scripts utilisant `scikit-learn` pour montrer les scores et les visualisations de régularisation.
 
-- `presentation-code2.pdf` :
+- `presentation-code2` :
   - Implémentation personnalisée des techniques L1, L2 et Elastic Net avec des classes Python.
 
 - `Regularization_Techniques.pdf` :
   - Présentation complète expliquant les concepts théoriques et les cas d'utilisation.
-
-- `README.md` :
-  - Ce fichier.
-
----
 
 ## 🚀 Démarrage
 

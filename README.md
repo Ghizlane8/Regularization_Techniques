@@ -10,6 +10,10 @@ Ce dépôt contient une présentation complète des techniques de régularisatio
 - **Introduction à la régularisation** : 
   - Explication du problème de surajustement et des limites des modèles trop complexes.
   - Définition et principes fondamentaux de la régularisation.
+ 
+- **Comprendre le surajustement** :
+   - Identifier les symptômes d’un modèle trop complexe (overfitting).
+   - Comprendre pourquoi la généralisation est essentielle pour de bonnes performances en machine learning.
 
 - **Méthodes de régularisation** :
   - **L1 (Lasso)** : Pénalise la somme des valeurs absolues des coefficients, ce qui encourage la parcimonie.
@@ -46,6 +50,13 @@ Ce dépôt contient une présentation complète des techniques de régularisatio
 
 - `Regularization_Techniques.pdf` :
   - Présentation complète expliquant les concepts théoriques et les cas d'utilisation.
+
+## 🔍 **Concepts Clés**
+- Régularisation : Technique ajoutant une pénalité à la fonction de coût pour contrôler la complexité du modèle.
+
+- Alpha : Contrôle l'importance de la régularisation. Une valeur élevée simplifie le modèle mais risque le sous-ajustement.
+
+- L1, L2 et Elastic Net : Différents mécanismes pour introduire des contraintes sur les coefficients.
 
 ## 🚀 Démarrage
 

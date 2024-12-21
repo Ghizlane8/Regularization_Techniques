@@ -58,14 +58,13 @@ Ce dépôt contient une présentation complète des techniques de régularisatio
 
 - L1, L2 et Elastic Net : Différents mécanismes pour introduire des contraintes sur les coefficients.
 
+## 👩‍💻 Auteurs
+- Baali Ghizlane
+- Imane Taghzout
+
 ## 🚀 Démarrage
 
 ### Prérequis
 Assurez-vous d'avoir Python 3.x installé et les bibliothèques suivantes :
 ```bash
 pip install numpy pandas matplotlib scikit-learn
-
-## 👩‍💻 **Auteurs**
-- Baali Ghizlane
-- Imane Taghzout
-

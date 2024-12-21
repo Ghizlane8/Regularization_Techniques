@@ -64,3 +64,8 @@ Ce dépôt contient une présentation complète des techniques de régularisatio
 Assurez-vous d'avoir Python 3.x installé et les bibliothèques suivantes :
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+
+## 👩‍💻 **Auteurs**
+- Baali Ghizlane
+- Imane Taghzout
+
